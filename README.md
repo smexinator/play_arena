@@ -68,9 +68,6 @@ Play Arena is a Flutter application that showcases various games with a sleek an
     ```
 6. **Create a Pull Request**.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 

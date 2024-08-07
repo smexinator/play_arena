@@ -21,13 +21,13 @@ Play Arena is a Flutter application that showcases various games with a sleek an
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/yourusername/play-arena.git
+    git clone https://github.com/smexinator/play_arena.git
     ```
 
 2. **Navigate to the Project Directory**:
 
     ```bash
-    cd play-arena
+    cd auth_app
     ```
 
 3. **Install Dependencies**:
